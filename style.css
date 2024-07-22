@@ -1,0 +1,445 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: Montserrate;
+}
+
+
+
+
+
+@media (max-width: 575px) {
+body{
+    .logo{
+        height: 40px;
+        width: 100px;
+        padding-left: 20px;
+        margin-left: 70px;
+        margin-top: 15px;
+
+    }
+
+    .nav ul{
+        margin-left: 160px;
+
+
+
+    }
+
+    .nav li{
+        font-size: 7px;
+        margin-left: 10px;
+
+
+    }
+
+.hero img{
+    width: 230%;
+}
+
+#bolder{
+    font-size: 15px;
+    padding-right: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.pic1{
+    margin-left: 240px;
+}
+
+.no1 p{
+    font-size: 15px;
+    width: 80%;
+    margin-top: 20px;
+    height: auto;
+    
+
+}
+
+#third{
+    font-size: 25px;
+
+
+}
+
+#third1{
+    font-size: 20px;
+}
+
+.forth{
+    display: flex;
+    flex-direction: column;
+}
+
+#mid{
+    font-size: 15px;
+   
+}
+#mid1{
+    font-size: 15px;
+    margin-left: 500px;
+   
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo-sec{
+    padding: 15px 15px 15px 15px;
+    
+}
+
+.logo{
+    background-image: url("bayc-logo-z\ \(1\).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 180px;
+    padding-top: 10px;
+}
+
+ul{
+    display: flex;
+    padding: 30px 15px 15px 15px;
+}
+
+ ul a{
+    display: inline;
+    color: #ffffff;
+    font-size: 12px;
+    margin-left: 25px;
+    text-align: left;
+    cursor: pointer;
+
+    
+}
+.hero{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+#bolder{
+    color: #ffffff;
+    font-size: 30px;
+    margin: 30px 0px;
+    padding-left: 100px;
+    font-family: Montserrate;
+    font-weight: 800;
+
+}
+p{
+    color: #ffffff;
+    font-size: 16px;
+    padding-left: 100px;
+    padding-right: 150px;
+    margin-top: 5px;
+}
+
+.one-pic{
+    padding-top: 20px;
+}
+
+
+.thow pic{
+    padding-top: 20px;
+}
+
+.no1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    
+}
+.pic1{
+    padding-top: 20px;
+    padding-right: 20px;
+
+}
+
+.pic2{
+    padding-top: 20px;
+    padding-right: 100px;
+
+}
+
+#third{
+    display: block;
+    color: rgb(191, 197, 0);
+    height: 35px;
+    margin-top: 30px;
+    width: 750px;
+    font-size: 30px;
+
+}
+
+#third1{
+    display: block;
+    height: 30px;
+    width: 766px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+
+
+.forth{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#mid{
+    display: block;
+    height: 80px;
+    width: 487px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#mid1{
+    display: block;
+    height: 85px;
+    width: 250px;
+    font-size: 15px;
+    font-weight: 80;
+    color: #ffffff;
+
+
+
+}
+
+.five{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70px;
+    width: 85%;
+    margin-left: 100px;
+    color: #ffffff;
+    padding: 21px 21px 21px 21px;
+    background-color: rgb(191, 197, 0);
+    
+}
+
+#buy{
+    display: block;
+    color: #000000;
+    height: 32px;
+    width: 185px;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+#ghr{
+    display: block;
+    height: 57px;
+    width: 325px;
+    font-size: 20px;
+    color: #000000;
+}
+
+#but{
+    display: block;
+    align-items: flex-start;
+    box-sizing: border-box;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 75px;
+    width: 186px;
+    background-color: #000000;
+    color: rgb(191, 197, 0);
+
+}
+
+#but:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border: 2px solid #ffffff;
+}
+
+
+.six{
+    display: flex;
+    padding-top: 70px;
+    padding-right: 90px;
+    color: #ffffff;
+}
+
+
+#si h1{
+    text-decoration: underline;
+    margin-left: 100px;
+    color: #ffffff;
+}
+
+
+#si p{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#si a{
+    color: rgb(191, 197, 0);;
+    text-decoration: none;
+}
+
+.six img{
+    padding-top: 10px;
+}
+
+.saven b{
+    color: #ffffff;
+    margin-left: 100px;
+}
+#saven{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.eght{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    padding-left: 70px;
+    height: 314px;
+    width: 50%;
+}
+.eg{
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 2;
+
+}
+.eg img{
+    height: 150px;
+    width: 100px;
+
+}
+
+.eg p{
+    font-size: 15px;
+    height: 200px;
+    width: 150px;
+    margin-left: -100px;
+    padding-top: 20px;
+    overflow: hidden;
+}
+
+.nine{
+    display: flex;
+}
+
+#ni b{
+    color: #ffffff;
+    font-size: 35px;
+    padding-left: 100px;
+    
+}
+
+#ni p{
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.nine img{
+    width: 162px;
+    height: 300px;
+    padding-right: 120px;
+}
+
+.ttt{
+    color: #ffffff;
+}
+
+.ttt b{
+    font-size: 35px;
+    padding-left: 100px;
+}
+
+.ttt p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.ten{
+
+    display: flex;
+}
+
+.ten1{
+    padding-top: 50px;
+    
+
+}
+
+
+.ten img{
+    background-color: rgb(191, 197, 0);
+    height: 334px;
+    width: 300px;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+.ten1 a{
+    display: block;
+    color: rgb(191, 197, 0);
+    padding-left: 120px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ten1 p{
+    display: inline block;
+    font-size: 20px;
+    text-decoration: line-through;  
+}
